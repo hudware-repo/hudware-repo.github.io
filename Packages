@@ -1,1 +1,11 @@
-// тут крч пакеты 
+Package: hudware
+Name: Hudware
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Hudware 
+Maintainer: Jayce
+Author: Jayce
+Section: Tweaks
+Icon: Library/MobileSubstrate/DynamicLibraries/hudware.png
+Version: 0.1
+Installed-Size: 584
