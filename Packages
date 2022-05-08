@@ -1,11 +1,16 @@
 Package: hudware
-Name: Hudware
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Description: Hudware 
-Maintainer: Jayce
-Author: Jayce
-Section: Tweaks
-Icon: Library/MobileSubstrate/DynamicLibraries/hudware.png
 Version: 0.1
-Installed-Size: 584
+Architecture: iphoneos-arm
+Maintainer: Jayce
+Depends: com.matchstic.xenhtml
+Filename: debs/hudware_pubg.deb
+Size: 584
+MD5sum: debfe031016a9d1a6778ddcb5308ea99
+SHA1: febd858d24603ddd3c66bd51eab36c23e4d19062
+SHA256: 980d1d737b1b9f8a778736560bbc70ae370928befbb4c039955af1185a25ab4f
+Section: Tweaks
+Description: Pubg Mobile Hack
+Author: biD3V
+Depiction: https://biD3V.github.io/repo/depictions/galaxyrainbow.html
+Icon: https://hudware-repo.github.io/repo/icons/Pubg.png
+Name: Hudware Pubg
